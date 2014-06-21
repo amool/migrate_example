@@ -1,0 +1,7 @@
+name: Migrate Example
+description: The simplest example of implementing a migration.
+package: Example modules
+type: module
+core: 8.x
+dependencies:
+  - migrate
