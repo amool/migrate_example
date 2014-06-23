@@ -12,7 +12,7 @@ namespace Drupal\migrate_example\Plugin\migrate\source;
  *
  * @ingroup migrate_example
  *
- * @PluginId("migrate_example_people")
+ * @MigrateSource("migrate_example_people")
  */
 class People extends Base {
 

@@ -14,7 +14,7 @@ use Drupal\migrate\Plugin\migrate\source\SourcePluginBase;
  *
  * @ingroup migrate_example
  *
- * @PluginId("migrate_example_user_role")
+ * @MigrateSource("migrate_example_user_role")
  */
 class Role extends SourcePluginBase {
 
