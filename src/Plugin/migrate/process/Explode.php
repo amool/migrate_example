@@ -17,7 +17,7 @@ use Drupal\migrate\Row;
  * @ingroup migrate_example
  *
  * @MigrateProcessPlugin(
- *   id = "explode",
+ *   id = "explode"
  * )
  */
 class Explode extends ProcessPluginBase {

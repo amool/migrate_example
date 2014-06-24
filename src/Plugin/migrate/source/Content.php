@@ -12,7 +12,9 @@ namespace Drupal\migrate_example\Plugin\migrate\source;
  *
  * @ingroup migrate_example
  *
- * @MigrateSource("migrate_example_content")
+ * @MigrateSource(
+ *   id = "migrate_example_content"
+ * )
  */
 class Content extends Base {
 
